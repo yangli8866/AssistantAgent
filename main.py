@@ -1,4 +1,4 @@
-from action.chat import ChatServer
+from action.chat1 import ChatServer
 from action.send_msg import SendServer
 
 if __name__=="__main__":
